@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357937478537",
+    "project_id": "halur-personal-notes-app",
+    "storage_bucket": "halur-personal-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357937478537:android:3094fead3f3d2025d6bf58",
+        "android_client_info": {
+          "package_name": "com.anotes.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1fVX3AeLidYcnSpXoN5XQ70N47RcTC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
